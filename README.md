@@ -22,7 +22,7 @@ This script automates common Git operations such as committing and pushing chang
 3. Run the script by typing:
 
     ```sh
-    script_name.bat
+    git-helper.cmd
     ```
 
 ### Menu Options
